@@ -1,0 +1,21 @@
+.underlined {
+    position: relative; /* Required for the :after pseudo-element to be positioned correctly */
+  }
+  
+  .underlined::after {
+    bottom: -4px;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.25s ease;
+    width: 100%;
+    background-color: currentColor; /* Matches the text color */
+  }
+  
+  /* .underlined:hover::after {
+    transform: scaleX(1);
+  } */

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "blogs",
+    "slug": "blogs",
+    "hidden": false
+  },
+  {
+    "title": "pages",
+    "slug": "pages",
+    "hidden": false
+  },
+  {
+    "title": "projects",
+    "slug": "projects",
+    "hidden": false
+  }
+]

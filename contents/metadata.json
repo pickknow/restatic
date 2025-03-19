@@ -1,0 +1,98 @@
+{
+  "metadata": [
+    {
+      "collection": "blogs",
+      "slug": "brochure-Your-Company",
+      "title": "brochure",
+      "description": "",
+      "coverImage": "",
+      "status": "published",
+      "publishedAt": "2025-03-14T13:15:05.927Z"
+    },
+    {
+      "title": "privacy policy",
+      "slug": "privacy-policy",
+      "description": null,
+      "coverImage": null,
+      "status": "published",
+      "publishedAt": "2025-03-13T22:15:11.551Z",
+      "collection": "blogs"
+    },
+    {
+      "title": "bookmark tagger",
+      "collection": "blogs",
+      "slug": "bookmark-tagger",
+      "description": null,
+      "coverImage": null,
+      "status": "published",
+      "publishedAt": "2025-03-11T17:58:44.419Z",
+      "content": "# Bookmark Tagger: Make Your Browser Bookmark Management More Efficient\n\n## Are You Struggling with Bookmark Management?\n\nAs we browse the web daily, we save countless valuable web pages, but over time, our bookmark list becomes overwhelmingly long, making it difficult to find specific pages. While Chrome and Edge browsers provide basic folder management, this method is too rigid and lacks flexibility for organizing and retrieving bookmarks.\n\nIf you've faced these challenges, **Bookmark Tagger** might be the solution you've been looking for.\n\n## What is Bookmark Tagger?\n\n**Bookmark Tagger** is a bookmark management tool that supports both Chrome and Edge browsers, allowing you to add multiple tags when saving a bookmark. Each bookmark can have multiple tags, making it easier to categorize, search, and manage your saved pages efficiently.\n\n### Key Features:\n\n- **Multi-tag Bookmark Management**: Assign multiple tags to each bookmark for better organization.\n- **Convenient Tag-based Search**: Quickly find bookmarks by filtering with tags.\n- **Safe and Secure**: Fully local storage, ensuring your privacy.\n- **Seamless Integration with Browser Bookmarks**: Enhances your existing bookmark system without altering its structure.\n\n## Why Choose Bookmark Tagger?\n\n### 1. More Efficient Than Folder-Based Management\n\nTraditional bookmark management relies on folders, but a bookmark often belongs to multiple categories, such as \"Frontend Development\" and \"JavaScript.\" With Bookmark Tagger, you can simply assign multiple relevant tags instead of duplicating bookmarks across different folders.\n\n### 2. Quick Search, Boosting Productivity\n\nUsing Bookmark Tagger, you can instantly filter bookmarks through tags. For example, searching for “Design + UX” will immediately display all bookmarks related to UI/UX design without manually scrolling through your entire list.\n\n### 3. Privacy Protection & Data Security\n\nBookmark Tagger runs entirely on your local device and does not upload your bookmark data. It also has minimal impact on your browser’s performance, ensuring a safe and seamless experience.\n\n## How to Get Started?\n\n1. **Install Bookmark Tagger**\n   - Search for \"Bookmark Tagger\" on the Chrome Web Store or Edge Add-ons Store and install it.\n   \n2. **Add Tags When Saving a Bookmark**\n   - Each time you save a bookmark, a tag input box will appear, allowing you to assign multiple tags.\n\n3. **Find Bookmarks Using Tags**\n   - Use the search bar to enter tags and instantly filter related bookmarks.\n\n## Conclusion\n\nWhether you're a developer, designer, or casual user, **Bookmark Tagger** helps you manage bookmarks more efficiently, making knowledge organization simpler than ever. If bookmark management has been a hassle for you, give it a try!\n\n📌 **Download Bookmark Tagger now and revolutionize your bookmark management!**\n\n"
+    },
+    {
+      "title": "chrome extension react ",
+      "collection": "blogs",
+      "slug": "chrome-extension-react",
+      "description": null,
+      "coverImage": null,
+      "status": "published",
+      "publishedAt": "2025-03-11T20:08:15.239Z"
+    },
+    {
+      "collection": "blogs",
+      "slug": "metalinker-your-telegram-to-chrome",
+      "title": "metalinker your telegram to chrome",
+      "description": "I'm curious if you have advice on what might be the best way to get traction/visibility? Seems like you have had a great deal of success positioning yourself to be easily found and known.",
+      "coverImage": null,
+      "status": "published",
+      "publishedAt": "2025-03-11T23:23:43.696Z",
+      "content": "## Save Your Links from Chaos with Metalinker: A Telegram + Chrome Power Combo\r\n\r\nEver stumbled across an awesome webpage, tossed it into your bookmarks, and then couldn’t find it again? Or spotted a link on your phone that you wanted to open on your computer, only to waste time figuring out how? I recently built a little tool called **Metalinker** that uses Telegram and Chrome to solve these headaches. Let me walk you through how it works and why you might end up loving it too.\r\n\r\n## What Is Metalinker?\r\n\r\nIn a nutshell, Metalinker is a cross-platform link management tool. The gist? Save links anytime via a Telegram Bot ([@metalinkerbot](https://t.me/metalinkerbot)), then access them with one click in a Chrome extension. Store on your phone, view on your desktop—clean, fast, and efficient.\r\n\r\n## How to Use It? 3 Easy Steps\r\n\r\n1. **Install the Chrome Extension**  \r\n   Head to the Chrome Web Store, search for “Metalinker,” and hit “Add to Chrome” ([click here to go straight there](#)). Once installed, it’ll sit quietly in your browser toolbar.\r\n\r\n2. **Add the Telegram Bot**  \r\n   Open Telegram, search for “@metalinkerbot,” or just click [this link](https://t.me/metalinkerbot) to add it. Say “hi” to the bot—it’ll greet you back with a friendly vibe.\r\n\r\n3. **Save Links, View Links**  \r\n   In Telegram, send any webpage link to [@metalinkerbot](https://t.me/metalinkerbot)—articles, videos, shopping pages, whatever you like. The bot will reply “Saved!” Then, pop open the Chrome extension, and voilà—all your links are neatly lined up with one click.\r\n\r\nThat’s it! From phone to computer, your links sync seamlessly—no more digging through chat histories.\r\n\r\n## Try It in These Scenarios\r\n\r\n- **Research Geeks**: Stumble across a bunch of papers or resources? Send them to [@metalinkerbot](https://t.me/metalinkerbot) via Telegram and browse them all later on your computer—way easier than hunting through bookmarks.\r\n- **Shopping Addicts**: Spot something cool on your phone while browsing? Save it to Metalinker and check it out on your big screen at home.\r\n- **Content Creators**: Collect inspiration links on the go, then pull them up in Chrome when it’s time to create.\r\n\r\nI’ve been using it myself for a while, and it’s perfect for that “save now, digest later” rhythm.\r\n\r\n## Why I Recommend Metalinker?\r\n\r\n1. **Lightning Fast**: Telegram’s already super quick—sending a link to the bot takes seconds, and Chrome pulls it up just as fast. Efficiency at its best.\r\n2. **Cross-Device Magic**: Links from your phone to your desktop, connected seamlessly. No more manual juggling.\r\n3. **Clean and Simple**: No cluttered interface—just save and view. It’s refreshingly straightforward.\r\n\r\nSure, there’s room to grow—maybe tags or a search feature down the line (got ideas? Let me know!). But even now, it tackles 80% of my link chaos with ease.\r\n\r\n## Spread the Word!\r\n\r\nIf you think Metalinker sounds handy, give it a spin:  \r\n- Add the Bot: [@metalinkerbot](https://t.me/metalinkerbot)  \r\n- Get the Extension: [Chrome Web Store link](https://chromewebstore.google.com/detail/metalinkersync-links-with/bikincjhamfogiimcnigjjfcikdjfbbp#)  \r\n\r\nLoved it? Share it with a friend or drop a shoutout on Twitter or your favorite platform: “Just found @metalinkerbot—a slick way to manage links with Telegram and Chrome!” Spreading the word helps me keep improving it.\r\n\r\n## Wrapping Up\r\n\r\nMetalinker started as my little fix for link overload, and it’s turned out to be surprisingly handy. If you’re drowning in URLs or bouncing between devices, give this Telegram-Chrome combo a try. Save fast, access easily, and cut the clutter—that’s why I’m hooked.\r\n\r\nGot feedback or thoughts after trying it? Hit me up on Telegram via [@metalinkerbot](https://t.me/metalinkerbot) or drop a comment below. Give it a go—maybe it’ll become your go-to link buddy too!\r\n"
+    },
+    {
+      "title": "privacy policy",
+      "slug": "privacy-policy",
+      "description": null,
+      "coverImage": null,
+      "status": "published",
+      "publishedAt": "2025-03-13T22:15:11.551Z",
+      "collection": "blogs"
+    },
+    {
+      "collection": "pages",
+      "slug": "about",
+      "title": "about",
+      "description": "about",
+      "coverImage": null,
+      "status": "published",
+      "publishedAt": "2025-03-11T20:28:33.213Z",
+      "content": "about\n"
+    },
+    {
+      "collection": "projects",
+      "slug": "Bookmark-Management-More-Efficient",
+      "title": "bookmark management more efficient",
+      "description": "**Bookmark Tagger** is a bookmark management tool that supports both Chrome and Edge browsers, allowing you to add multiple tags when saving a bookmark.",
+      "coverImage": "https://lh3.googleusercontent.com/vTnYeFmNxLvcbaW7BCwY_sgn4dCMVlXk1FNwJ0z-D6I6xFPH5C-HIYEuIqSKeO5pKEcTms_GXTEh8FStG-cJWtrL5g=s1280-w1280-h800",
+      "status": "published",
+      "publishedAt": "2025-03-12T13:21:42.618Z",
+      "content": "# Bookmark Tagger: Make Your Browser Bookmark Management More Efficient\n\n## Are You Struggling with Bookmark Management?\n\nAs we browse the web daily, we save countless valuable web pages, but over time, our bookmark list becomes overwhelmingly long, making it difficult to find specific pages. While Chrome and Edge browsers provide basic folder management, this method is too rigid and lacks flexibility for organizing and retrieving bookmarks.\n\nIf you've faced these challenges, **Bookmark Tagger** might be the solution you've been looking for.\n\n## What is Bookmark Tagger?\n\n**Bookmark Tagger** is a bookmark management tool that supports both Chrome and Edge browsers, allowing you to add multiple tags when saving a bookmark. Each bookmark can have multiple tags, making it easier to categorize, search, and manage your saved pages efficiently.\n\n### Key Features:\n\n- **Multi-tag Bookmark Management**: Assign multiple tags to each bookmark for better organization.\n- **Convenient Tag-based Search**: Quickly find bookmarks by filtering with tags.\n- **Safe and Secure**: Fully local storage, ensuring your privacy.\n- **Seamless Integration with Browser Bookmarks**: Enhances your existing bookmark system without altering its structure.\n\n## Why Choose Bookmark Tagger?\n\n### 1. More Efficient Than Folder-Based Management\n\nTraditional bookmark management relies on folders, but a bookmark often belongs to multiple categories, such as \"Frontend Development\" and \"JavaScript.\" With Bookmark Tagger, you can simply assign multiple relevant tags instead of duplicating bookmarks across different folders.\n\n### 2. Quick Search, Boosting Productivity\n\nUsing Bookmark Tagger, you can instantly filter bookmarks through tags. For example, searching for “Design + UX” will immediately display all bookmarks related to UI/UX design without manually scrolling through your entire list.\n\n### 3. Privacy Protection & Data Security\n\nBookmark Tagger runs entirely on your local device and does not upload your bookmark data. It also has minimal impact on your browser’s performance, ensuring a safe and seamless experience.\n\n## How to Get Started?\n\n1. **Install Bookmark Tagger**\n   - Search for \"Bookmark Tagger\" on the Chrome Web Store or Edge Add-ons Store and install it.\n   \n2. **Add Tags When Saving a Bookmark**\n   - Each time you save a bookmark, a tag input box will appear, allowing you to assign multiple tags.\n\n3. **Find Bookmarks Using Tags**\n   - Use the search bar to enter tags and instantly filter related bookmarks.\n\n## Conclusion\n\nWhether you're a developer, designer, or casual user, **Bookmark Tagger** helps you manage bookmarks more efficiently, making knowledge organization simpler than ever. If bookmark management has been a hassle for you, give it a try!\n\n📌 **Download Bookmark Tagger now and revolutionize your bookmark management!**\n\n"
+    },
+    {
+      "collection": "projects",
+      "slug": "Chrome-Extension-Template-with-React-Tailwindcss-Typescript",
+      "title": "chrome extension template with react tailwindcss typescript",
+      "description": "This is a Chrome extension development template built with modern frontend technologies, designed to help developers quickly create powerful Chrome extensions.",
+      "coverImage": "https://play-lh.googleusercontent.com/yZPtmF--wo_V78QRe00YWjnHBnTISZZJeSo4WbSsJpFBRI1MNsv6sN1UxRBIK6mbtQ=w832-h470-rw",
+      "status": "published",
+      "publishedAt": "2025-03-12T13:20:55.331Z"
+    },
+    {
+      "collection": "projects",
+      "slug": "Metalinker:-Your-Telegram-to-Chrome-Link-Lifesaver",
+      "title": "metalinker: your telegram-to-chrome link lifesaver",
+      "description": "Save Your Links from Chaos with Metalinker: A Telegram + Chrome Power Combo",
+      "coverImage": "https://lh3.googleusercontent.com/NusGc7CZteA-Jz5YA5i6RgLk__iJnzpKKgpvL68Y5BcsK5ePXYcNoRDFZhDvha10P2oMdPOnYtLp71jyMTqQlezRdJk=s1280-w1280-h800",
+      "status": "published",
+      "publishedAt": "2025-03-12T13:20:20.832Z"
+    }
+  ]
+}
