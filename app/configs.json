@@ -4,6 +4,6 @@
   "avatar": "",
   "title": "ReStatic",
   "description": "ReStatic|Remix|Next.js",
-  "indexTop": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.\n\nIt's fast, flexible, and reliable — with zero-runtime.",
-  "indexBottom": "The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool. The CLI is also available as a standalone executable if you want to use it without installing Node.js."
+  "indexTop": "ReStatic is a lightweight, Remix-powered tool that transforms your Markdown or Word files into a fully functional static blog with ease. Drop your content into the mix, and let ReStatic handle the rest—automatically generating pages with server-side rendering (SSR) and a dynamic menu based on your structure. Whether you're a developer crafting a personal site or a writer sharing your thoughts, ReStatic delivers a fast, simple, and modern blogging experience. Static sites, dynamic power—built for creators, by creators.\n",
+  "indexBottom": "Tone: Friendly yet technical, appealing to both developers and casual users.\n\nKey Points: Highlights Remix, SSR, Markdown, static generation, and ease of use.\n\nLength: Short enough for a GitHub README or landing page intro.\n\nLet me know if you’d like it tweaked—maybe more technical, shorter, or with a different vibe!\n\n"
 }

@@ -135,5 +135,5 @@ node_modules
 /build
 .env
 .DS_Store
-# data/sessions/*
+data/sessions/*
 .vercel

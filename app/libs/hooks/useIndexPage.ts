@@ -25,10 +25,11 @@ export function useIndexPage() {
     const { getCollections } = useCollections()
     const _cols = getCollections().filter(item => !item.hidden && item.slug!=='pages')
     for (const col of _cols) {
-      col['chindren'] = await db.find({ collection: col.slug },
+      col.chindren = await db.find({ collection: col.slug },
         ['title', 'slug', 'coverImage', 'description', 'state', 'publishedAt']).limit(4).toArray()
     }
-    return _cols as typeCollection[]
+    const _result = _cols.filter(item => item.chindren && item.chindren.length > 0)
+    return _result as typeCollection[]
   }
   return {
     getTopContent,
